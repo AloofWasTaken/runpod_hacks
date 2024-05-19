@@ -1,1 +1,1 @@
-# steve
+# Small Multimodal Model
